@@ -4,7 +4,7 @@ export const shows = [{
       data: "2025-06-05",
       horario: "21:00",
       tipo_ingresso: "inteira",
-      banner: "../images/image0.jpg"
+      banner: "./images/image0.jpg"
     },
     {
       artista: "Titãs",
@@ -12,7 +12,7 @@ export const shows = [{
       data: "2025-06-10",
       horario: "21:00",
       tipo_ingresso: "meia entrada",
-      banner: "../images/image1.jpg"
+      banner: "./images/image1.jpg"
     },
     {
       artista: "Barão Vermelho",
@@ -20,7 +20,7 @@ export const shows = [{
       data: "2025-06-15",
       horario: "21:00",
       tipo_ingresso: "vip",
-      banner: "../images/image2.jpg"
+      banner: "./images/image2.jpg"
     },
     {
       artista: "Os Paralamas do Sucesso",
@@ -28,7 +28,7 @@ export const shows = [{
       data: "2025-06-20",
       horario: "21:00",
       tipo_ingresso: "premium",
-      banner: "../images/image3.jpg"
+      banner: "./images/image3.jpg"
     },
     {
       artista: "Skank",
@@ -36,7 +36,7 @@ export const shows = [{
       data: "2025-06-25",
       horario: "21:00",
       tipo_ingresso: "pista",
-      banner: "../images/image4.jpg"
+      banner: "./images/image4.jpg"
     },
     {
       artista: "Engenheiros do Hawaii",
@@ -44,7 +44,7 @@ export const shows = [{
       data: "2025-07-01",
       horario: "21:00",
       tipo_ingresso: "meia entrada",
-      banner: "../images/image5.jpg"
+      banner: "./images/image5.jpg"
     },
     {
       artista: "Capital Inicial",
@@ -52,7 +52,7 @@ export const shows = [{
       data: "2025-07-05",
       horario: "21:00",
       tipo_ingresso: "inteira",
-      banner: "../images/image6.jpg"
+      banner: "./images/image6.jpg"
     },
     {
       artista: "Ira!",
@@ -60,7 +60,7 @@ export const shows = [{
       data: "2025-07-10",
       horario: "21:00",
       tipo_ingresso: "vip",
-      banner: "../images/image7.jpg"
+      banner: "./images/image7.jpg"
     },
     {
       artista: "CPM 22",
@@ -68,7 +68,7 @@ export const shows = [{
       data: "2025-07-15",
       horario: "21:00",
       tipo_ingresso: "pista",
-      banner: "../images/image8.jpg"
+      banner: "./images/image8.jpg"
     },
     {
       artista: "O Rappa",
@@ -76,7 +76,7 @@ export const shows = [{
       data: "2025-07-20",
       horario: "21:00",
       tipo_ingresso: "premium",
-      banner: "../images/image9.jpg"
+      banner: "./images/image9.jpg"
     },
     {
       artista: "Charlie Brown Jr.",
@@ -84,7 +84,7 @@ export const shows = [{
       data: "2025-07-25",
       horario: "21:00",
       tipo_ingresso: "meia entrada",
-      banner: "../images/image0.jpg"
+      banner: "./images/image0.jpg"
     },
     {
       artista: "Detonautas",
@@ -92,7 +92,7 @@ export const shows = [{
       data: "2025-07-30",
       horario: "21:00",
       tipo_ingresso: "vip",
-      banner: "../images/image1.jpg"
+      banner: "./images/image1.jpg"
     },
     {
       artista: "Jota Quest",
@@ -100,7 +100,7 @@ export const shows = [{
       data: "2025-08-04",
       horario: "21:00",
       tipo_ingresso: "pista",
-      banner: "../images/image2.jpg"
+      banner: "./images/image2.jpg"
     },
     {
       artista: "Pitty",
@@ -108,7 +108,7 @@ export const shows = [{
       data: "2025-08-09",
       horario: "21:00",
       tipo_ingresso: "premium",
-      banner: "../images/image3.jpg"
+      banner: "./images/image3.jpg"
     },
     {
       artista: "Raimundos",
@@ -116,7 +116,7 @@ export const shows = [{
       data: "2025-08-14",
       horario: "21:00",
       tipo_ingresso: "meia entrada",
-      banner: "../images/image4.jpg"
+      banner: "./images/image4.jpg"
     },
     {
       artista: "Los Hermanos",
@@ -124,7 +124,7 @@ export const shows = [{
       data: "2025-08-19",
       horario: "21:00",
       tipo_ingresso: "inteira",
-      banner: "../images/image5.jpg"
+      banner: "./images/image5.jpg"
     },
     {
       artista: "NX Zero",
@@ -132,7 +132,7 @@ export const shows = [{
       data: "2025-08-24",
       horario: "21:00",
       tipo_ingresso: "vip",
-      banner: "../images/image6.jpg"
+      banner: "./images/image6.jpg"
     },
     {
       artista: "Tihuana",
@@ -140,7 +140,7 @@ export const shows = [{
       data: "2025-09-03",
       horario: "21:00",
       tipo_ingresso: "premium",
-      banner: "../images/image7.jpg"
+      banner: "./images/image7.jpg"
     },
     {
       artista: "Rosa de Saron",
@@ -148,7 +148,7 @@ export const shows = [{
       data: "2025-09-08",
       horario: "21:00",
       tipo_ingresso: "meia entrada",
-      banner: "../images/image8.jpg"
+      banner: "./images/image8.jpg"
     },
     {
       artista: "Camisa de Vênus",
@@ -156,7 +156,7 @@ export const shows = [{
       data: "2025-09-13",
       horario: "21:00",
       tipo_ingresso: "vip",
-      banner: "../images/image9.jpg"
+      banner: "./images/image9.jpg"
     },
     {
       artista: "Fresno",
@@ -164,7 +164,7 @@ export const shows = [{
       data: "2025-09-18",
       horario: "21:00",
       tipo_ingresso: "inteira",
-      banner: "../images/image0.jpg"
+      banner: "./images/image0.jpg"
     },
     {
       artista: "Papas da Língua",
@@ -172,7 +172,7 @@ export const shows = [{
       data: "2025-09-23",
       horario: "21:00",
       tipo_ingresso: "pista",
-      banner: "../images/image1.jpg"
+      banner: "./images/image1.jpg"
     },
     {
       artista: "O Terno",
@@ -180,7 +180,7 @@ export const shows = [{
       data: "2025-09-28",
       horario: "21:00",
       tipo_ingresso: "premium",
-      banner: "../images/image2.jpg"
+      banner: "./images/image2.jpg"
     },
     {
       artista: "Scalene",
@@ -188,7 +188,7 @@ export const shows = [{
       data: "2025-10-03",
       horario: "21:00",
       tipo_ingresso: "vip",
-      banner: "../images/image3.jpg"
+      banner: "./images/image3.jpg"
     },
     {
       artista: "Supercombo",
@@ -196,7 +196,7 @@ export const shows = [{
       data: "2025-10-08",
       horario: "21:00",
       tipo_ingresso: "meia entrada",
-      banner: "../images/image4.jpg"
+      banner: "./images/image4.jpg"
     },
     {
       artista: "Ego Kill Talent",
@@ -204,7 +204,7 @@ export const shows = [{
       data: "2025-10-13",
       horario: "21:00",
       tipo_ingresso: "pista",
-      banner: "../images/image5.jpg"
+      banner: "./images/image5.jpg"
     },
     {
       artista: "Dead Fish",
@@ -212,7 +212,7 @@ export const shows = [{
       data: "2025-10-18",
       horario: "21:00",
       tipo_ingresso: "inteira",
-      banner: "../images/image6.jpg"
+      banner: "./images/image6.jpg"
     },
     {
       artista: "Vivendo do Ócio",
@@ -220,7 +220,7 @@ export const shows = [{
       data: "2025-10-23",
       horario: "21:00",
       tipo_ingresso: "premium",
-      banner: "../images/image7.jpg"
+      banner: "./images/image7.jpg"
     },
     {
       artista: "Malta",
@@ -228,7 +228,7 @@ export const shows = [{
       data: "2025-10-28",
       horario: "21:00",
       tipo_ingresso: "vip",
-      banner: "../images/image8.jpg"
+      banner: "./images/image8.jpg"
     },
     {
       artista: "Cachorro Grande",
@@ -236,7 +236,7 @@ export const shows = [{
       data: "2025-11-02",
       horario: "21:00",
       tipo_ingresso: "meia entrada",
-      banner: "../images/image9.jpg"
+      banner: "./images/image9.jpg"
     }
   ];
   
