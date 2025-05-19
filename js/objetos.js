@@ -1,5 +1,4 @@
-export const shows = [
-    {
+export const shows = [{
       artista: "Legião Urbana",
       local: "Brasília",
       data: "2025-06-05",
