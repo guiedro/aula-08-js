@@ -1,8 +1,7 @@
 .hero-page {
     min-height: 100vh;
     position: relative;
-    top: 0;
-    
+    top: 0; 
 }
 .navbar-brand, .nav-link {
     color: #fff !important; 
@@ -20,7 +19,6 @@
     color: #fff;
 }
 
-
 .hero-video {
     width: 100%;
     height: 100%;
@@ -36,7 +34,6 @@
     position: absolute;
     inset: 0;
     background-image: linear-gradient(rgba(0, 0, 0, .6),rgba(0, 0, 0, .3));
-
 }
 
 .bg-navbar{
@@ -58,21 +55,20 @@
     & p{
         text-wrap: balance !important;
     }
-
-
 }
 .arrow{
     display: inline-block;
     animation: arrow 1s ease-in-out infinite;
 }
 
-.btn-hero:hover {
+.btn-hero:hover .arrow {
     animation: arrow 1s infinite;
-
-
-
 }
 
+.inscrevase{
+    background-color: black;
+    color: #fff;
+}
 
 
 
