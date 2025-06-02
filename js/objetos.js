@@ -239,4 +239,46 @@ export const shows = [{
       banner: "./images/image9.jpg"
     }
   ];
+
+/* ***************************objeto para criar a galeria***************************/
+
+
+export const galleryImages = [
+  { imagem: "images/image0.jpg", descricao: "Show eletrizante com luzes vibrantes" },
+  { imagem: "images/image14.jpg", descricao: "Guitarrista solando em palco iluminado" },
+  { imagem: "images/image12.jpg", descricao: "Banda agitando multidão de fãs" },
+  { imagem: "images/image3.jpg", descricao: "Bateria marcando ritmo com intensidade" },
+  { imagem: "images/image4.jpg", descricao: "Vocalista gritando letras com paixão" },
+  { imagem: "images/image15.jpg", descricao: "Plateia pulando ao som pesado" },
+  { imagem: "images/image6.jpg", descricao: "Riffs distorcidos ecoando pelo estádio" },
+  { imagem: "images/image17.jpg", descricao: "Fãs cantando juntos refrão marcante" },
+  { imagem: "images/image8.jpg", descricao: "Show ao ar livre com energia" },
+  { imagem: "images/image19.jpg", descricao: "Luzes vermelhas piscando no palco" },
+  { imagem: "images/image10.jpg", descricao: "Baixista comandando groove poderoso" },
+  { imagem: "images/image11.jpg", descricao: "Banda reunida para grande final" },
+  { imagem: "images/image2.jpg", descricao: "Fogos explodindo atrás dos músicos" },
+  { imagem: "images/image13.jpg", descricao: "Multidão levantando mãos no ar" },
+  { imagem: "images/image1.jpg", descricao: "Som ensurdecedor em estádio lotado" },
+  { imagem: "images/image5.jpg", descricao: "Vocal rasgado em microfone vintage" },
+  { imagem: "images/image16.jpg", descricao: "Show underground com luz baixa" },
+  { imagem: "images/image7.jpg", descricao: "Fãs com camisetas e braços erguidos" },
+  { imagem: "images/image18.jpg", descricao: "Solo épico encerrando grande apresentação" },
+  { imagem: "images/image9.jpg", descricao: "Palco pegando fogo com performance intensa" }
+];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   

@@ -1,4 +1,4 @@
-import { shows }from "./objetos.js";
+import { shows, galleryImages }from "./objetos.js";
 console.log(shows);
 
 // montando o grid de shows 
@@ -27,7 +27,23 @@ shows.forEach(show => {
             </div>
         </div>
     `
-}) 
+});  ;
+// montando a galeria de imagens
+
+// recuperando o elemento HTML que receberá a galeria
+const galeria = document.querySelector('#gallery');
+
+// montando a galeria, para isso iremos usar um forEach que ira percorrer o array de imagen. Para cada imagem sera criada uma tag img com as classes correspondentes 
+
+galleryImages.forEach(images => {
+    galeria.innerHTML += `
+    <a href="${images.imagem}" data-lightbox="roadtrip" 
+    data-title="${images.descricao}">
+    <img src="${images.imagem}" alt="" loading="lazy" class="img-gallery">
+    </a>
+    `
+});
+
 
 
 
